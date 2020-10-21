@@ -1,0 +1,19 @@
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\bin\Debug\UMengPush.exe.config
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\bin\Debug\UMengPush.exe
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\bin\Debug\UMengPush.pdb
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\obj\Debug\UMengPush.csprojAssemblyReference.cache
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\obj\Debug\UMengPush.csproj.CoreCompileInputs.cache
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\obj\Debug\UMengPush.csproj.CopyComplete
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\obj\Debug\UMengPush.exe
+C:\Users\jyeoo\Desktop\新建文件夹 (2)\UMengPush-master\UMengPush\obj\Debug\UMengPush.pdb
+E:\repos\UMengPush\UMengPush\bin\Debug\UMengPush.exe.config
+E:\repos\UMengPush\UMengPush\bin\Debug\UMengPush.exe
+E:\repos\UMengPush\UMengPush\bin\Debug\UMengPush.pdb
+E:\repos\UMengPush\UMengPush\bin\Debug\Newtonsoft.Json.dll
+E:\repos\UMengPush\UMengPush\obj\Debug\UMengPush.csprojAssemblyReference.cache
+E:\repos\UMengPush\UMengPush\obj\Debug\UMengPush.csproj.CoreCompileInputs.cache
+E:\repos\UMengPush\UMengPush\obj\Debug\UMengPush.csproj.CopyComplete
+E:\repos\UMengPush\UMengPush\obj\Debug\UMengPush.exe
+E:\repos\UMengPush\UMengPush\obj\Debug\UMengPush.pdb
